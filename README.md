@@ -15,4 +15,6 @@ The application is a step by step demonstration of the following:
 2. Google Cloud : Firestore, Cloud Run, Gemini in Vertex AI
 3. Langchain Python framework
 
+## Deployed in Cloud Run
+https://yogaposes-343573577656.us-central1.run.app/
 
